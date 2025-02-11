@@ -8,7 +8,7 @@ function test() {
  console.log("look ma’, no spaces");
 }
 ```
-## Командуудын жагсаалт :sun_with_face:
+## Командуудын жагсаалт :sun_with_face: :ledger:
 
 `git add * `  **Бүх шинэ болон өөрчлөгдсөн файлуудыг стэйжилнэ**
 

@@ -18,5 +18,5 @@ function test() {
 
 `git add [file.txt] `  **file.txt файлыг стэйжилнэ**
 
-`git remote prune [remote-name] `  **Локал дээрх remote-ийг цэвэрлэнэ**
+`git remote prune [remote-name] `  **Локал дээрх remote-ийг цэвэрлэнэ** `V45|07:36`
 

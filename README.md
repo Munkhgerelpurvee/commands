@@ -5,7 +5,7 @@ git дээр үзсэн командуудаа ашиглаж хөгжүүлж �
 
 ```javascript
 function test() {
- console.log("look ma’, no spaces");
+ console.log("look ma’, gjdgfnfdgnbfgbn");
 }
 ```
 ## Командуудын жагсаалт :sun_with_face: :ledger:
@@ -19,4 +19,3 @@ function test() {
 `git add [file.txt] `  **file.txt файлыг стэйжилнэ**
 
 `git remote prune [remote-name] `  **Локал дээрх remote-ийг цэвэрлэнэ** `V45|07:36`
-
